@@ -1,0 +1,25 @@
+.header {
+    background: url(../bem/img2/sloy.png);
+    background-position: top 50px right 10px;
+    background-repeat: no-repeat;
+    background-size: 675px 762px;;
+    width: 1180px;
+    height: 823px;
+    margin-bottom: 100px;
+}
+
+.subtitle {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 50px;
+    padding-left: 115px;
+}
+
+.title {
+    font-family: 'Arial';
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 130px;
+    line-height: 100%;
+}

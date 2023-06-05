@@ -1,0 +1,63 @@
+.abakshin {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    float:left;
+    padding-right: 10px;
+    padding-left: 700px;
+}
+
+.about {
+    margin-bottom: 100px;
+    white-space:pre-line;
+    width: 1180px;
+}
+
+.about__quote {
+    quotes: "\201C" "\201D";
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+.about__quote::before {
+    content: open-quote;
+    color: mediumvioletred;
+    margin-right: 10px;
+}
+
+.about__quote::after {
+    content: close-quote;
+    color: mediumvioletred;
+    margin-left: 10px;
+}
+
+.about__text {
+    margin-bottom: 70px;
+}
+
+.about__title {
+    text-align: center;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+    padding-bottom: 50px;
+}
+
+.blockquote {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 50px;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}

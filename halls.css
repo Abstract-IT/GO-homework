@@ -1,0 +1,66 @@
+
+.card-link {
+    text-align: center;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    text-transform: uppercase;
+    line-height: 80px;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    width: 211px;
+    height: 160px;
+    padding:275px 485px 275px 484px;
+}
+
+.halls {
+    margin-bottom: 100px;
+    white-space:pre-line;
+    width: 1180px;
+    height: 3236px;
+}
+
+.halls__list {
+    list-style: none;
+    padding: 0;
+}
+
+.halls__title {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.halls__item-one{
+    background-image: url(../bem/img2/80x.png);
+    width: 1180px;
+    height: 710px;
+    margin-bottom: 60px;
+}
+
+.halls__item-two{
+    background-image: url(../bem/img2/star\ wars.png);
+    width: 1180px;
+    height: 710px;
+    margin-bottom: 60px;
+}
+
+.halls__item-tree{
+    background-image: url(../bem/img2/wild\ west.png);
+    width: 1180px;
+    height: 710px;
+    margin-bottom: 60px;
+}
+
+.halls__item-four{
+    background-image: url(../bem/img2/neon\ style.png);
+    width: 1180px;
+    height: 710px;
+    margin-bottom: 60px;
+}

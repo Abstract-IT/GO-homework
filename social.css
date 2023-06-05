@@ -1,0 +1,67 @@
+
+.address__text {
+    display: flex;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: white;
+    text-decoration: none;
+}
+
+.address__title {
+    text-align: center;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+    padding-bottom: 50px;
+}
+
+.footer {
+    width: 1180px;
+    margin-bottom: 100px;
+}
+
+.mail {
+    display: flex;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 24px;
+}
+
+.social {
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+    padding-left: 0;
+}
+
+.social__item {
+    list-style: none;
+}
+
+.social__link {   
+    display: flex;
+    height: 50px;
+    width: 50px;
+    color: white;}
+
+.telephone {
+    display: flex;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: white;
+    text-decoration: none;
+}
