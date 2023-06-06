@@ -45,21 +45,21 @@
 }
 
 .halls__item-two{
-    background-image: url(./img2/star\ wars.png);
+    background-image: url(./img2/starwars.png);
     width: 1180px;
     height: 710px;
     margin-bottom: 60px;
 }
 
 .halls__item-tree{
-    background-image: url(./img2/wild\ west.png);
+    background-image: url(./img2/wildwest.png);
     width: 1180px;
     height: 710px;
     margin-bottom: 60px;
 }
 
 .halls__item-four{
-    background-image: url(./img2/neon\ style.png);
+    background-image: url(./img2/neon-style.png);
     width: 1180px;
     height: 710px;
     margin-bottom: 60px;
