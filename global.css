@@ -44,6 +44,9 @@ header,main,footer{
     margin-left: 140px;
 }
 
+figcaption {
+    text-align: center;
+}
 /*.container {
     max-width: 1240px;
     padding: 0 30px;

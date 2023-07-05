@@ -1,0 +1,38 @@
+.review {
+    margin-bottom: 100px;
+}
+
+.review__title {
+    color: #FFF;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+.samoilov,.grigorieva,.yasenko {
+    width: 280px;
+    height: 280px;
+    flex-shrink: 1;
+    margin-right: 20px;
+}
+
+.review__samoilov, .review__grigorieva {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.review__yasenko {
+    display: flex;
+}
+
+.review__samoilov-text, .review__grigorieva-text,.review__yasenko-text {
+    width: 680px;
+    height: 88px;
+    margin-top: 52px;
+}
+
