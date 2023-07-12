@@ -41,11 +41,18 @@ a {
 }
 
 header,main,footer{
-    margin-left: 140px;
+    
 }
 
 figcaption {
     text-align: center;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 /*.container {
     max-width: 1240px;
